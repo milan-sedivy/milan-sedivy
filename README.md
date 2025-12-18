@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Milan
 
-<!--
-**milan-sedivy/milan-sedivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I guess my biggest hobbies are applied mathematics and programming, it's always fun to see a theoretical concept being applied (and work!). :)
 
-Here are some ideas to get you started:
+Apart from that I like soldering, carpentry, baking sourdough bread and growing chilli peppers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building / experimenting with a custom ARM homelab. I started this project out of curiosity and personal need as I wanted extra HW resources, but didn't want to upgrade my PC.
+After stumbling upon OrangePi Zero 3 I was more than excited as for roughly USD 25 (before memory chip shortage) I could get:
+- 4GB of RAM
+- 4 CPUs with 1.5GHz clockspeed
+- 1 GPU (OpenGL ES 1.0/2.0/3.2, OpenCL 2.0, and Vulkan 1.1 support)
+
+All of which required at most 3W of power to run (without peripherals).
+
+<img width="3734" height="2224" alt="prototype" src="https://github.com/user-attachments/assets/b2c28b8b-ecd9-4353-ac78-18747fc7bcd4" />
+
+It's still in its infancy as I'm hoping to try and get more of them for a cheaper price.
