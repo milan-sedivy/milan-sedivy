@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Milan
 
-I guess my biggest hobbies are applied mathematics and programming, it's always fun to see a theoretical concept being applied (and work!). :)
+I guess my biggest hobbies are applied mathematics and programming, it's always fun to see a theoretical concept being applied to a real problem (and seeing it work!). :)
 
 Apart from that I like soldering, carpentry, baking sourdough bread and growing chilli peppers. 
 
